@@ -35,6 +35,7 @@ The dataset was used for clustering analysis and interactive visualization of me
 
 ## `Dashboard_Breast_Cancer_Cell.py`
 Contains an interactive dashboard developed using Dash and Plotly for the exploration and visualization of metabolic fluxes.
+<img width="1013" height="650" alt="image" src="https://github.com/user-attachments/assets/aab35f74-2406-4345-aaa5-c06a0740f238" />
 
 The dashboard allows:
 - Interactive reaction selection
@@ -46,6 +47,7 @@ The dashboard allows:
 
 ## `K_means_in_Breast_Cancer_Cell.ipynb`
 Contains an unsupervised machine learning workflow using the K-Means clustering algorithm to identify metabolic patterns and groups of reactions based on flux behavior.
+<img width="464" height="273" alt="image" src="https://github.com/user-attachments/assets/5441600e-0529-4cd0-8165-aecad557d7d5" />
 
 The notebook includes:
 - Data preprocessing
