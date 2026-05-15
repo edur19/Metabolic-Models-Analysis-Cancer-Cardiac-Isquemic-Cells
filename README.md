@@ -64,4 +64,3 @@ Several amino acids, including leucine and asparagine, were identified as essent
 
 These findings are consistent with previously reported literature and demonstrate the capability of genome-scale metabolic models to reproduce biologically relevant phenotypes in silico.
 
-The clustering analysis further identified groups of reactions with similar metabolic behavior, providing insights into potential metabolic dependencies and coordinated pathways associated with cellular growth.
