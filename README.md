@@ -1,5 +1,3 @@
-# Metabolic-Models-Analysis-Cancer-Cardiac-Isquemic-cells
-
 
 # Metabolic Modeling and Clustering Analysis using COBRA Toolbox
 
