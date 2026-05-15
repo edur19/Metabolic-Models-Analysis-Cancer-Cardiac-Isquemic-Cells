@@ -41,7 +41,6 @@ The dashboard allows:
 - Interactive reaction selection
 - Visualization of biomass production changes
 - Exploration of metabolic dependencies
-- Dynamic analysis of reaction impact on cellular growth
 
 ---
 
